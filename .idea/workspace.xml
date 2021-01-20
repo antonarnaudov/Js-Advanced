@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56888090-4b73-4522-b7e3-664fd009c9c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/even.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/firstLast.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/positiveNegative.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/smallestTwoNumbers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo.js" afterDir="false" />
-    </list>
+    <list default="true" id="56888090-4b73-4522-b7e3-664fd009c9c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,44 +36,50 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.demo.js">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankre\Js-Advanced\demos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.biggestElement.js">
     <configuration name="Node.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="demo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demo.js" working-dir="$PROJECT_DIR$">
+    <configuration name="biggerHalf.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/biggerHalf.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
       <method v="2" />
     </configuration>
-    <configuration name="even.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/even.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
+    <configuration name="biggestElement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/biggestElement.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
       <method v="2" />
     </configuration>
-    <configuration name="firstLast.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/firstLast.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
+    <configuration name="demo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demos/demo.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="positiveNegative.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/positiveNegative.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
+    <configuration name="processOddPositions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/processOddPositions.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
       <method v="2" />
     </configuration>
-    <configuration name="smallestTwoNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/smallestTwoNumbers.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
+    <configuration name="reducers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demos/reducers.js" working-dir="$PROJECT_DIR$/demos">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Node.js" />
       <item itemvalue="Node.js.demo.js" />
-      <item itemvalue="Node.js.even.js" />
-      <item itemvalue="Node.js.firstLast.js" />
-      <item itemvalue="Node.js.positiveNegative.js" />
-      <item itemvalue="Node.js.smallestTwoNumbers.js" />
+      <item itemvalue="Node.js.biggerHalf.js" />
+      <item itemvalue="Node.js.processOddPositions.js" />
+      <item itemvalue="Node.js.biggestElement.js" />
+      <item itemvalue="Node.js.reducers.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.biggestElement.js" />
+        <item itemvalue="Node.js.reducers.js" />
+        <item itemvalue="Node.js.processOddPositions.js" />
         <item itemvalue="Node.js.demo.js" />
-        <item itemvalue="Node.js.smallestTwoNumbers.js" />
-        <item itemvalue="Node.js.positiveNegative.js" />
-        <item itemvalue="Node.js.firstLast.js" />
-        <item itemvalue="Node.js.even.js" />
+        <item itemvalue="Node.js.biggerHalf.js" />
       </list>
     </recent_temporary>
   </component>
@@ -99,6 +98,8 @@
       <workItem from="1610988721089" duration="2019000" />
       <workItem from="1610994626237" duration="3948000" />
       <workItem from="1611058081831" duration="1729000" />
+      <workItem from="1611152546438" duration="11908000" />
+      <workItem from="1611178200881" duration="7766000" />
     </task>
     <servers />
   </component>
@@ -107,84 +108,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610472195926">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1610472195926" />
-    <state width="1254" height="252" key="GridCell.Tab.0.bottom" timestamp="1611009021026">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="252" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1611009021026" />
-    <state width="1254" height="252" key="GridCell.Tab.0.center" timestamp="1611009021026">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="252" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1611009021026" />
-    <state width="1254" height="252" key="GridCell.Tab.0.left" timestamp="1611009021026">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="252" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1611009021026" />
-    <state width="1254" height="252" key="GridCell.Tab.0.right" timestamp="1611009021026">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="252" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1611009021026" />
-    <state width="1254" height="797" key="GridCell.Tab.1.bottom" timestamp="1610751356782">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356782" />
-    <state width="1254" height="797" key="GridCell.Tab.1.center" timestamp="1610751356782">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356782" />
-    <state width="1254" height="797" key="GridCell.Tab.1.left" timestamp="1610751356782">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356782" />
-    <state width="1254" height="797" key="GridCell.Tab.1.right" timestamp="1610751356782">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356782" />
-    <state width="1254" height="797" key="GridCell.Tab.2.bottom" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.2.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state width="1254" height="797" key="GridCell.Tab.2.center" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.2.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state width="1254" height="797" key="GridCell.Tab.2.left" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.2.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state width="1254" height="797" key="GridCell.Tab.2.right" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.2.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state width="1254" height="797" key="GridCell.Tab.3.bottom" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.3.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state width="1254" height="797" key="GridCell.Tab.3.center" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.3.center/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state width="1254" height="797" key="GridCell.Tab.3.left" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.3.left/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state width="1254" height="797" key="GridCell.Tab.3.right" timestamp="1610751356783">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state width="1254" height="797" key="GridCell.Tab.3.right/0.0.2560.1400@0.0.2560.1400" timestamp="1610751356783" />
-    <state x="1421" y="0" key="SettingsEditor" timestamp="1610741843083">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1421" y="0" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1610741843083" />
-    <state x="1627" y="0" width="585" height="924" key="find.popup" timestamp="1610731501607">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1627" y="0" width="585" height="924" key="find.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1610731501607" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
