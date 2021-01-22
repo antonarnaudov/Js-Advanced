@@ -64,3 +64,13 @@ console.log(llStrings)
 
 const grosomeMapper = llStrings.map(Number).map(x => x + 1)
 console.log('Grosome mapper',grosomeMapper)
+
+console.log()
+ll = ['exo', 'text', 'strings', 'Banana']
+for (let index in ll) {
+    console.log(index)
+}
+
+for (let element of ll) {
+    console.log(element)
+}

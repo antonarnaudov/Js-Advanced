@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56888090-4b73-4522-b7e3-664fd009c9c1" name="Default Changelist" comment="" />
+    <list default="true" id="56888090-4b73-4522-b7e3-664fd009c9c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/addAndRemoveElements.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/extractIncreasingSubsequence.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/listOfNames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/magicMatrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/printDelimiterArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/printEveryNthElement.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/rotateArray.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortArrayBy2Criteria.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortingNumbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/demos/demo.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +40,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -46,40 +59,40 @@
       <recent name="C:\Users\ankre\Js-Advanced\demos" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.biggestElement.js">
+  <component name="RunManager" selected="Node.js.magicMatrices.js">
     <configuration name="Node.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="biggerHalf.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/biggerHalf.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
+    <configuration name="extractIncreasingSubsequence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/extractIncreasingSubsequence.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="biggestElement.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/biggestElement.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
+    <configuration name="listOfNames.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/listOfNames.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="demo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demos/demo.js" working-dir="$PROJECT_DIR$">
+    <configuration name="magicMatrices.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/magicMatrices.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="processOddPositions.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/processOddPositions.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays">
+    <configuration name="sortArrayBy2Criteria.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortArrayBy2Criteria.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
       <method v="2" />
     </configuration>
-    <configuration name="reducers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demos/reducers.js" working-dir="$PROJECT_DIR$/demos">
+    <configuration name="sortingNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortingNumbers.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Node.js" />
-      <item itemvalue="Node.js.demo.js" />
-      <item itemvalue="Node.js.biggerHalf.js" />
-      <item itemvalue="Node.js.processOddPositions.js" />
-      <item itemvalue="Node.js.biggestElement.js" />
-      <item itemvalue="Node.js.reducers.js" />
+      <item itemvalue="Node.js.extractIncreasingSubsequence.js" />
+      <item itemvalue="Node.js.listOfNames.js" />
+      <item itemvalue="Node.js.sortingNumbers.js" />
+      <item itemvalue="Node.js.sortArrayBy2Criteria.js" />
+      <item itemvalue="Node.js.magicMatrices.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.biggestElement.js" />
-        <item itemvalue="Node.js.reducers.js" />
-        <item itemvalue="Node.js.processOddPositions.js" />
-        <item itemvalue="Node.js.demo.js" />
-        <item itemvalue="Node.js.biggerHalf.js" />
+        <item itemvalue="Node.js.magicMatrices.js" />
+        <item itemvalue="Node.js.sortArrayBy2Criteria.js" />
+        <item itemvalue="Node.js.sortingNumbers.js" />
+        <item itemvalue="Node.js.listOfNames.js" />
+        <item itemvalue="Node.js.extractIncreasingSubsequence.js" />
       </list>
     </recent_temporary>
   </component>
@@ -100,6 +113,7 @@
       <workItem from="1611058081831" duration="1729000" />
       <workItem from="1611152546438" duration="11908000" />
       <workItem from="1611178200881" duration="7766000" />
+      <workItem from="1611230093567" duration="25600000" />
     </task>
     <servers />
   </component>
@@ -117,7 +131,18 @@
           <line>1</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/arrays-and-nestedArrays/exercises/printEveryNthElement.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="matrix.length - 1 - col" language="JavaScript" />
+        <watch expression="matrix[1][0]" language="JavaScript" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
