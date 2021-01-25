@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56888090-4b73-4522-b7e3-664fd009c9c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/addAndRemoveElements.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/extractIncreasingSubsequence.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/listOfNames.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/magicMatrices.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/printDelimiterArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/printEveryNthElement.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/rotateArray.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortArrayBy2Criteria.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortingNumbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/objectsDemo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects-and-composition/cityRecord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects-and-composition/cityTaxes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects-and-composition/objectFactory.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/objects-and-composition/townPopulation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demos/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/demos/demo.js" afterDir="false" />
     </list>
@@ -59,40 +55,40 @@
       <recent name="C:\Users\ankre\Js-Advanced\demos" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.magicMatrices.js">
+  <component name="RunManager" selected="Node.js.objectFactory.js">
     <configuration name="Node.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="extractIncreasingSubsequence.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/extractIncreasingSubsequence.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
+    <configuration name="cityRecord.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objects-and-composition/cityRecord.js" working-dir="$PROJECT_DIR$/objects-and-composition">
       <method v="2" />
     </configuration>
-    <configuration name="listOfNames.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/listOfNames.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
+    <configuration name="cityTaxes.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objects-and-composition/cityTaxes.js" working-dir="$PROJECT_DIR$/objects-and-composition">
       <method v="2" />
     </configuration>
-    <configuration name="magicMatrices.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/magicMatrices.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
+    <configuration name="objectFactory.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objects-and-composition/objectFactory.js" working-dir="$PROJECT_DIR$/objects-and-composition">
       <method v="2" />
     </configuration>
-    <configuration name="sortArrayBy2Criteria.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortArrayBy2Criteria.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
+    <configuration name="objectsDemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demos/objectsDemo.js" working-dir="$PROJECT_DIR$/objects-and-composition">
       <method v="2" />
     </configuration>
-    <configuration name="sortingNumbers.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrays-and-nestedArrays/exercises/sortingNumbers.js" working-dir="$PROJECT_DIR$/arrays-and-nestedArrays/exercises">
+    <configuration name="townPopulation.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/objects-and-composition/townPopulation.js" working-dir="$PROJECT_DIR$/objects-and-composition">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.Node.js" />
-      <item itemvalue="Node.js.extractIncreasingSubsequence.js" />
-      <item itemvalue="Node.js.listOfNames.js" />
-      <item itemvalue="Node.js.sortingNumbers.js" />
-      <item itemvalue="Node.js.sortArrayBy2Criteria.js" />
-      <item itemvalue="Node.js.magicMatrices.js" />
+      <item itemvalue="Node.js.objectsDemo.js" />
+      <item itemvalue="Node.js.cityRecord.js" />
+      <item itemvalue="Node.js.townPopulation.js" />
+      <item itemvalue="Node.js.cityTaxes.js" />
+      <item itemvalue="Node.js.objectFactory.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.magicMatrices.js" />
-        <item itemvalue="Node.js.sortArrayBy2Criteria.js" />
-        <item itemvalue="Node.js.sortingNumbers.js" />
-        <item itemvalue="Node.js.listOfNames.js" />
-        <item itemvalue="Node.js.extractIncreasingSubsequence.js" />
+        <item itemvalue="Node.js.objectFactory.js" />
+        <item itemvalue="Node.js.objectsDemo.js" />
+        <item itemvalue="Node.js.cityTaxes.js" />
+        <item itemvalue="Node.js.townPopulation.js" />
+        <item itemvalue="Node.js.cityRecord.js" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +109,9 @@
       <workItem from="1611058081831" duration="1729000" />
       <workItem from="1611152546438" duration="11908000" />
       <workItem from="1611178200881" duration="7766000" />
-      <workItem from="1611230093567" duration="25600000" />
+      <workItem from="1611230093567" duration="26050000" />
+      <workItem from="1611431965469" duration="127000" />
+      <workItem from="1611508058479" duration="12763000" />
     </task>
     <servers />
   </component>
@@ -133,16 +131,9 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/arrays-and-nestedArrays/exercises/printEveryNthElement.js</url>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="NodeJSConfigurationType">
-        <watch expression="matrix.length - 1 - col" language="JavaScript" />
-        <watch expression="matrix[1][0]" language="JavaScript" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>

@@ -74,3 +74,9 @@ for (let index in ll) {
 for (let element of ll) {
     console.log(element)
 }
+
+let obj = {baba: 1, dqdo: 2, exo: 'exo'}
+let {baba, dqdo, ...rest} = obj;
+console.log(obj)
+console.log(baba, dqdo)
+console.log(rest)
