@@ -1,4 +1,4 @@
-function colorize() {
+function colorize1() {
     const rows = document.getElementsByTagName('tr');
 
     for (let i in rows) {
@@ -6,4 +6,11 @@ function colorize() {
             rows[i].style.backgroundColor = 'Teal'
         }
     }
+}
+
+
+function colorize() {
+    [...document.querySelectorAll
+    ('table tr:nth-child(even)')]
+        .forEach(e => e.style.backgroundColor = 'teal')
 }
