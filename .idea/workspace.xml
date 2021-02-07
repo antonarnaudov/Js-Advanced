@@ -2,54 +2,72 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56888090-4b73-4522-b7e3-664fd009c9c1" name="Default Changelist" comment="DOM introduction exercise">
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/01. Subtraction/01. Substraction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/01. Subtraction/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/01. Subtraction/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/01. Subtraction/subtract.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/02. Pascal or Camel Case/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/02. Pascal or Camel Case/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/02. Pascal or Camel Case/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/03. Accordion/02. Accordion.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/03. Accordion/accordion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/03. Accordion/accordion.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/03. Accordion/accordion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/04. Search in List/list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/04. Search in List/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/04. Search in List/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/05. Table - Serach Engine/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/05. Table - Serach Engine/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/05. Table - Serach Engine/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/06. Format the Text/softuni-wallpaper-5-1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/06. Format the Text/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/06. Format the Text/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/06. Format the Text/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/07. Hell's Kitchen/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/07. Hell's Kitchen/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/07. Hell's Kitchen/softuni-wallpaper-1-1920x1080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/07. Hell's Kitchen/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/08. Generate Report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/08. Generate Report/report.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/08. Generate Report/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/09. Number Convertor/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/09. Number Convertor/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/exercise/09. Number Convertor/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/lecture/06.Sum Table/SumTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DOM-introduction/lecture/07.Extract Parenthesis/ExtractParenthesis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/01. Sections/01. Sections.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/01. Sections/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/01. Sections/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/01. Sections/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/02. Time-Converter/02. Time-Converter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/02. Time-Converter/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/02. Time-Converter/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/02. Time-Converter/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/03. Locked-Profile/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/03. Locked-Profile/iconProfile2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/03. Locked-Profile/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/03. Locked-Profile/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/04. Fill-Dropdown/02. Fill-Dropdown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/04. Fill-Dropdown/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/04. Fill-Dropdown/filldropdown.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/04. Fill-Dropdown/filldropdown.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/05. Encode-and-Decode-Messages/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/05. Encode-and-Decode-Messages/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/05. Encode-and-Decode-Messages/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/furniture.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/07. Distance-Converter/07. Distance-Converter.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/07. Distance-Converter/converter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/07. Distance-Converter/distanceConverter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/07. Distance-Converter/distanceConverter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/08. Sudomu/9x9/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/08. Sudomu/9x9/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/08. Sudomu/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/08. Sudomu/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/08. Sudomu/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/09. JavaScript-Quiz/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/09. JavaScript-Quiz/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/09. JavaScript-Quiz/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/01. List-Of-Items/List-Of-Items.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/01. List-Of-Items/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/01. List-Of-Items/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/01. List-Of-Items/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/02. Add-Delete/Add-Delete.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/02. Add-Delete/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/02. Add-Delete/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/02. Add-Delete/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/03. Delete-From-Table/03. Delete-From-Table.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/03. Delete-From-Table/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/03. Delete-From-Table/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/03. Delete-From-Table/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/04. Mouse-Gradient/04. Mouse-Gradient.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/04. Mouse-Gradient/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/04. Mouse-Gradient/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/04. Mouse-Gradient/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/05. Highlight-Active/05. Hightlight-Active.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/05. Highlight-Active/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/05. Highlight-Active/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/05. Highlight-Active/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/06. Dynamic-Validation/06. Dynamic-Validation.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/06. Dynamic-Validation/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/06. Dynamic-Validation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/06. Dynamic-Validation/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/07. Shopping-Cart/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/07. Shopping-Cart/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/07. Shopping-Cart/images/wizard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/07. Shopping-Cart/solution.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/07. Shopping-Cart/template.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/lecture/07. Shopping-Cart/template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/01.Edit Element/EditElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/01.Edit Element/EditElement.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/01.Edit Element/tamplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/01.Edit Element/tamplate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/02.Collect List Items/CollectListItems.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/02.Collect List Items/CollectListItems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/02.Collect List Items/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/02.Collect List Items/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/03.Sum Numbers/SumNumbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/03.Sum Numbers/SumNumbers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/03.Sum Numbers/Tamplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/03.Sum Numbers/Tamplate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/04.Show More/ShowMore.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/04.Show More/ShowMore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/04.Show More/tamplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/04.Show More/tamplate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/05.Colorize Table/ColorizeTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/05.Colorize Table/ColorizeTable.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/05.Colorize Table/tamplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/05.Colorize Table/tamplate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/06.Sum Table/SumTable.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/06.Sum Table/tamplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/06.Sum Table/tamplate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/07.Extract Parenthesis/ExtractParenthesis.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-introduction/07.Extract Parenthesis/tamplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-introduction/lecture/07.Extract Parenthesis/tamplate.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +83,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1myiCsmcTU9XsmqDNidf4Fy0S0o" />
   <component name="ProjectLevelVcsManager">
@@ -93,44 +119,45 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ankre\Js-Advanced\DOM-manipulations-and-events\lecture" />
       <recent name="C:\Users\ankre\Js-Advanced\DOM-introduction\lecture" />
       <recent name="C:\Users\ankre\Js-Advanced\demos" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-introduction/exercise/01. Subtraction/index.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-manipulations-and-events/exerciese/02. Time-Converter/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tamplate.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-introduction/05.Colorize Table/tamplate.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-manipulations-and-events/exerciese/01. Sections/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tamplate.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-introduction/07.Extract Parenthesis/tamplate.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-manipulations-and-events/06. Dynamic-Validation/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="tamplate.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-introduction/06.Sum Table/tamplate.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-manipulations-and-events/05. Highlight-Active/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-introduction/exercise/02. Pascal or Camel Case/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-manipulations-and-events/07. Shopping-Cart/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="Node.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.tamplate.html (2)" />
-      <item itemvalue="Node.js.Node.js" />
-      <item itemvalue="JavaScript Debug.tamplate.html" />
-      <item itemvalue="JavaScript Debug.tamplate.html (3)" />
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.Node.js" />
+      <item itemvalue="JavaScript Debug.index.html (5)" />
       <item itemvalue="JavaScript Debug.template.html" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.template.html" />
+        <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.tamplate.html (3)" />
-        <item itemvalue="JavaScript Debug.tamplate.html" />
-        <item itemvalue="JavaScript Debug.tamplate.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +187,11 @@
       <workItem from="1612180483648" duration="11000" />
       <workItem from="1612180529671" duration="8526000" />
       <workItem from="1612278792000" duration="13357000" />
+      <workItem from="1612448648897" duration="95000" />
+      <workItem from="1612449275338" duration="5804000" />
+      <workItem from="1612540593341" duration="1997000" />
+      <workItem from="1612642130202" duration="6091000" />
+      <workItem from="1612697098766" duration="13885000" />
     </task>
     <servers />
   </component>
@@ -176,6 +208,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
