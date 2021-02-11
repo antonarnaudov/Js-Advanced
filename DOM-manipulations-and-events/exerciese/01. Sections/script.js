@@ -1,24 +1,54 @@
 function create(words) {
     const content = document.getElementById('content')
+
     words.forEach((w) => {
-        const div = document.createElement('div')
-        const paragraph = document.createElement('p')
-        paragraph.textContent = w
+        const paragraph = createElement('p', w)
         paragraph.style.display = 'none'
-        div.appendChild(paragraph)
+
+        const div = createElement('div', paragraph)
         content.appendChild(div)
     })
 
     content.addEventListener('click', (ev) => {
-        const paragraphs = document.querySelectorAll('div p')
         if (ev.target.tagName === 'DIV') {
-            paragraphs.forEach((p) => {
-                p.style.display = 'block'
-            })
-        } else {
-            paragraphs.forEach((p) => {
-                p.style.display = 'none'
-            })
+            ev.target.querySelector('p').style.display = 'block'
         }
     })
+
+    function createElement(type, content) {
+        const newElement = document.createElement(type)
+        if (typeof content === 'string') {
+            newElement.textContent = content
+        } else {
+            newElement.appendChild(content)
+        }
+        return newElement
+    }
+}
+
+// With Closure
+function create1(words) {
+    const content = document.getElementById('content')
+
+    words.forEach((w) => {
+        const paragraph = createElement('p', w)
+        paragraph.style.display = 'none'
+
+        const div = createElement('div', paragraph)
+        // Closure let's us use paragraph.
+        div.addEventListener('click', ev => {
+            paragraph.style.display = ''
+        })
+        content.appendChild(div)
+    })
+
+    function createElement(type, content) {
+        const newElement = document.createElement(type)
+        if (typeof content === 'string') {
+            newElement.textContent = content
+        } else {
+            newElement.appendChild(content)
+        }
+        return newElement
+    }
 }
