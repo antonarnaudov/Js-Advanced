@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56888090-4b73-4522-b7e3-664fd009c9c1" name="Default Changelist" comment="DOM introduction exercise">
+      <change afterPath="$PROJECT_DIR$/advanced-functions/lecture/areaAndVolumeCalculator.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/01. Sections/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/01. Sections/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/03. Locked-Profile/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/03. Locked-Profile/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/04. Fill-Dropdown/dropdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/04. Fill-Dropdown/dropdown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/05. Encode-and-Decode-Messages/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/05. Encode-and-Decode-Messages/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/05. Encode-and-Decode-Messages/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/05. Encode-and-Decode-Messages/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/furniture.json" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/furniture.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/DOM-manipulations-and-events/exerciese/06. Furniture/solution.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +60,7 @@
       <recent name="C:\Users\ankre\Js-Advanced\demos" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html">
-    <configuration name="filldropdown.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-manipulations-and-events/exerciese/04. Fill-Dropdown/filldropdown.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.areaAndVolumeCalculator.js">
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/DOM-manipulations-and-events/exerciese/01. Sections/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -85,21 +76,24 @@
     <configuration name="Node.js" type="NodeJSConfigurationType" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="areaAndVolumeCalculator.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/advanced-functions/lecture/areaAndVolumeCalculator.js" working-dir="$PROJECT_DIR$/advanced-functions/lecture">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html (2)" />
       <item itemvalue="JavaScript Debug.template.html (1)" />
-      <item itemvalue="JavaScript Debug.filldropdown.html" />
       <item itemvalue="JavaScript Debug.template.html (2)" />
       <item itemvalue="JavaScript Debug.template.html" />
       <item itemvalue="Node.js.Node.js" />
+      <item itemvalue="Node.js.areaAndVolumeCalculator.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.areaAndVolumeCalculator.js" />
         <item itemvalue="JavaScript Debug.template.html" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.template.html (2)" />
         <item itemvalue="JavaScript Debug.template.html (1)" />
-        <item itemvalue="JavaScript Debug.filldropdown.html" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +130,7 @@
       <workItem from="1612697098766" duration="13885000" />
       <workItem from="1612777639025" duration="15193000" />
       <workItem from="1612965413079" duration="6971000" />
-      <workItem from="1613060416521" duration="351000" />
+      <workItem from="1613060416521" duration="5393000" />
     </task>
     <servers />
   </component>
