@@ -3,7 +3,7 @@
 // console.log(u.multiply(2, 4))
 // console.log(u.sumOfNums(2, 4))
 
-const {sumOfNums, multiply} = require('./universal')
+const { sum, multiply } = require('./universal')
 
 console.log(multiply(2, 4))
-console.log(sumOfNums(2,4))
+console.log(sum(2, 4))

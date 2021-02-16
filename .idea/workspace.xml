@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad72c96-fb45-4e90-99ce-a8350789e8bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/test/universal.test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/universal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/subSum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Js-Advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Js-Advanced.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/launch.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/chai/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chai/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +95,8 @@
     <list>
       <item itemvalue="Mocha.Mocha Tests" />
       <item itemvalue="Mocha.Sum function" />
-      <item itemvalue="Node.js.universal.js" />
       <item itemvalue="Mocha.Sum function (1)" />
+      <item itemvalue="Node.js.universal.js" />
     </list>
     <recent_temporary>
       <list>
@@ -121,6 +115,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613430015591</updated>
       <workItem from="1613430018644" duration="1174000" />
+      <workItem from="1613476270319" duration="479000" />
     </task>
     <servers />
   </component>
