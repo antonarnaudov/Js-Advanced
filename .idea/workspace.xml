@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad72c96-fb45-4e90-99ce-a8350789e8bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/rgbToHex.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/sumOfNums.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/symmetry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/checkForSymmetry.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/checkRgbToHex.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/sumOfNums.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/chai/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/chai/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="javascript.nodejs.core.library.configured.version" value="14.15.5" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.14.28" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules" />
-    <property name="nodejs.mocha.mocha_node_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/mocha" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -45,7 +47,7 @@
       <recent name="D:\Coding\JavaScript\Js-Advanced\unit-testing-and-error-handling\lecture\modules\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Mocha.Sum function (1)">
+  <component name="RunManager" selected="Mocha.Symmetry function tests">
     <configuration name="universal.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/universal.js" working-dir="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules">
       <method v="2" />
     </configuration>
@@ -92,14 +94,49 @@
       </test-names>
       <method v="2" />
     </configuration>
+    <configuration name="Symmetry function tests" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/checkForSymmetry.test.js</test-file>
+      <test-names>
+        <name value="Symmetry function tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Symmetry function tests.takes != array as argument" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/checkForSymmetry.test.js</test-file>
+      <test-names>
+        <name value="Symmetry function tests" />
+        <name value="takes != array as argument" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Mocha.Mocha Tests" />
       <item itemvalue="Mocha.Sum function" />
       <item itemvalue="Mocha.Sum function (1)" />
       <item itemvalue="Node.js.universal.js" />
+      <item itemvalue="Mocha.Symmetry function tests.takes != array as argument" />
+      <item itemvalue="Mocha.Symmetry function tests" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Mocha.Symmetry function tests" />
+        <item itemvalue="Mocha.Symmetry function tests.takes != array as argument" />
         <item itemvalue="Mocha.Sum function (1)" />
         <item itemvalue="Mocha.Sum function" />
         <item itemvalue="Node.js.universal.js" />
@@ -116,6 +153,7 @@
       <updated>1613430015591</updated>
       <workItem from="1613430018644" duration="1174000" />
       <workItem from="1613476270319" duration="479000" />
+      <workItem from="1613503363331" duration="120000" />
     </task>
     <servers />
   </component>
