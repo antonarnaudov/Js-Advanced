@@ -51,17 +51,14 @@ class Parking {
     }
 
     findCarByCarNumber(carNumber, command) {
-        for (let i = 0; i < this.vehicles.length; i++) {
-            if (this.vehicles[i].carNumber === carNumber) {
-                if (command === 'remove') {
-                    this.vehicles.splice(i, 1);
-                } else if (command === 'pay') {
-                    this.vehicles[i].payed = true;
-                } else {
-                    return this.vehicles[i];
-                }
-            }
+        const car = this.vehicles.find(c => c.carNumber === carNumber);
+
+        if (command === 'remove') {
+            this.vehicles.splice(this.vehicles.indexOf(car), 1);
+        } else if (command === 'pay') {
+            car.payed = true;
         }
+        return car;
     }
 
     carIsFound(carNumber) {
@@ -73,6 +70,5 @@ const parking = new Parking(12);
 
 console.log(parking.addCar("Volvo t600", "TX3691CA"));
 console.log(parking.getStatistics());
-
 console.log(parking.pay("TX3691CA"));
 console.log(parking.removeCar("TX3691CA"));

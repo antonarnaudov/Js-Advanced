@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ad72c96-fb45-4e90-99ce-a8350789e8bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/classes/Person.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/Point.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/getPersons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/demos/classesDemo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examPrep/Parking.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examPrep/pizza.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examPrep/pizza.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Js-Advanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Js-Advanced.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examPrep/Skeleton/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examPrep/Skeleton/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examPrep/Skeleton/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/modules/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/test/universal.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/modules/test/universal.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/modules/universal.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/modules/universal.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/rgbToHex.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/rgbToHex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/subSum.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/subSum.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/sumOfNums.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/sumOfNums.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/symmetry.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/symmetry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/checkForSymmetry.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/test/checkForSymmetry.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/checkRgbToHex.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/test/checkRgbToHex.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unit-testing-and-error-handling/lecture/test/sumOfNums.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/unit-testing-and-error-handling/test/sumOfNums.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/Parking.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep/Parking.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/pizza.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep/pizza.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/pizza.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep/pizza.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,20 +59,8 @@
       <recent name="D:\Coding\JavaScript\Js-Advanced\unit-testing-and-error-handling\lecture\modules\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Parking.js">
-    <configuration name="Parking.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/examPrep/Parking.js" working-dir="$PROJECT_DIR$/examPrep">
-      <method v="2" />
-    </configuration>
-    <configuration name="Person.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/classes/Person.js" working-dir="$PROJECT_DIR$/classes">
-      <method v="2" />
-    </configuration>
-    <configuration name="Point.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/classes/Point.js" working-dir="$PROJECT_DIR$/classes">
-      <method v="2" />
-    </configuration>
-    <configuration name="classesDemo.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/demos/classesDemo.js" working-dir="$PROJECT_DIR$/demos">
-      <method v="2" />
-    </configuration>
-    <configuration name="getPersons.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/classes/getPersons.js" working-dir="$PROJECT_DIR$/classes">
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/examPrep/Skeleton/index.js" working-dir="$PROJECT_DIR$/examPrep/Skeleton">
       <method v="2" />
     </configuration>
     <configuration name="Mocha Tests" type="mocha-javascript-test-runner">
@@ -100,21 +76,82 @@
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
+    <configuration name="examPrep\pizza.test.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST_FILE</test-kind>
+      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
+      <method v="2" />
+    </configuration>
+    <configuration name="pizzUni Tests" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>SUITE</test-kind>
+      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
+      <test-names>
+        <name value="pizzUni Tests" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="pizzUni Tests.makeAnOrder Tests.pass non object element" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
+      <test-names>
+        <name value="pizzUni Tests" />
+        <name value="makeAnOrder Tests" />
+        <name value="pass non object element" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="pizzUni Tests.orderType Tests." type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
+      <test-names>
+        <name value="pizzUni Tests" />
+        <name value="orderType Tests" />
+        <name value="" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Mocha.Mocha Tests" />
-      <item itemvalue="Node.js.classesDemo.js" />
-      <item itemvalue="Node.js.Person.js" />
-      <item itemvalue="Node.js.getPersons.js" />
-      <item itemvalue="Node.js.Point.js" />
-      <item itemvalue="Node.js.Parking.js" />
+      <item itemvalue="Mocha.pizzUni Tests" />
+      <item itemvalue="Mocha.pizzUni Tests.makeAnOrder Tests.pass non object element" />
+      <item itemvalue="Mocha.pizzUni Tests.orderType Tests." />
+      <item itemvalue="Mocha.examPrep\pizza.test.js" />
+      <item itemvalue="Node.js.index.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Parking.js" />
-        <item itemvalue="Node.js.getPersons.js" />
-        <item itemvalue="Node.js.Point.js" />
-        <item itemvalue="Node.js.classesDemo.js" />
-        <item itemvalue="Node.js.Person.js" />
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Mocha.examPrep\pizza.test.js" />
+        <item itemvalue="Mocha.pizzUni Tests" />
+        <item itemvalue="Mocha.pizzUni Tests.orderType Tests." />
+        <item itemvalue="Mocha.pizzUni Tests.makeAnOrder Tests.pass non object element" />
       </list>
     </recent_temporary>
   </component>
@@ -130,12 +167,26 @@
       <workItem from="1613476270319" duration="479000" />
       <workItem from="1613503363331" duration="120000" />
       <workItem from="1613505669452" duration="2446000" />
-      <workItem from="1613564568388" duration="19587000" />
+      <workItem from="1613564568388" duration="20045000" />
+      <workItem from="1613653973791" duration="17537000" />
+      <workItem from="1613676622901" duration="9730000" />
     </task>
+    <task id="LOCAL-00001" summary="Js classes half lecture taken + exam prep task with classes SOLVED">
+      <created>1613607289770</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613607289770</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Js classes half lecture taken + exam prep task with classes SOLVED" />
+    <option name="LAST_COMMIT_MESSAGE" value="Js classes half lecture taken + exam prep task with classes SOLVED" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
