@@ -44,6 +44,7 @@ function solve() {
             lis = []
             modules[lectureModule] = {module, ul, lis}
 
+
         } else {
             // if lecture does not exist exists in module
             module = modules[lectureModule].module
@@ -53,13 +54,13 @@ function solve() {
 
         lis.push({li, date: lectureDate})
         lis.sort((a, b) => a.date.localeCompare(b.date)).forEach(({li}) => ul.appendChild(li))
-
         document.querySelector('.user-view .modules').appendChild(module)
+
     }
 
     function deleteLecture(el) {
         const ulWithoutElementLength = el.parentNode.parentNode.querySelectorAll('li').length - 1
-        if (ulWithoutElementLength === 0){
+        if (ulWithoutElementLength === 0) {
             const module = el.parentNode.parentNode.parentNode
             module.remove()
         } else {
@@ -68,22 +69,28 @@ function solve() {
         }
     }
 
-    function createElement(type, ...content) {
-        const result = document.createElement(type)
-        content.forEach(element => {
-            if (typeof element === 'string') {
-                const node = document.createTextNode(element)
-                result.appendChild(node)
-            } else {
-                result.appendChild(element)
-            }
-        })
-        return result
-    }
+    // function createElement(type, ...content) {
+    //     const result = document.createElement(type)
+    //     content.forEach(element => {
+    //         if (typeof element === 'string') {
+    //             const node = document.createTextNode(element)
+    //             result.appendChild(node)
+    //         } else {
+    //             result.appendChild(element)
+    //         }
+    //     })
+    //     return result
+    // }
 
     function fixDate(lectureDate) {
         let [date, time] = lectureDate.split('T')
-        date = date.replaceAll('-', '/')
-        return `${date} - ${time}`.trim()
+        let fixedDate = []
+        date.split('').forEach(el => {
+            if (el === '-') {
+                el = '/'
+            }
+            fixedDate.push(el)
+        })
+        return `${fixedDate.join('')} - ${time}`.trim()
     }
 }

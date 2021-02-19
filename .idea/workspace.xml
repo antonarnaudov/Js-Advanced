@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="2ad72c96-fb45-4e90-99ce-a8350789e8bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examPrep/Skeleton/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examPrep/Skeleton/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examPrep/Skeleton/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examPrep2/ChristmasDinner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examPrep2/dealership.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examPrep2/dealership.test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examPrep/Parking.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep/Parking.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examPrep/pizza.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep/pizza.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examPrep/pizza.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep/pizza.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/Parking.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep1/Parking.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/Skeleton/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep1/Skeleton/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/Skeleton/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep1/Skeleton/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/Skeleton/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep1/Skeleton/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/pizza.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep1/pizza.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examPrep/pizza.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/examPrep1/pizza.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +31,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1oXPYlVVEnhYC1YhR4KuyBVe7Sp" />
   <component name="ProjectLevelVcsManager">
@@ -59,8 +73,17 @@
       <recent name="D:\Coding\JavaScript\Js-Advanced\unit-testing-and-error-handling\lecture\modules\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.index.js">
-    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/examPrep/Skeleton/index.js" working-dir="$PROJECT_DIR$/examPrep/Skeleton">
+  <component name="RunManager" selected="Node.js.ChristmasDinner.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Js-Advanced/examPrep2/01christmas-gifts/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ChristmasDinner.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/examPrep2/ChristmasDinner.js" working-dir="$PROJECT_DIR$/examPrep2">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/examPrep2/01christmas-gifts/app.js" working-dir="$PROJECT_DIR$/examPrep2/01christmas-gifts">
+      <method v="2" />
+    </configuration>
+    <configuration name="dealership.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/examPrep2/dealership.js" working-dir="$PROJECT_DIR$/examPrep2">
       <method v="2" />
     </configuration>
     <configuration name="Mocha Tests" type="mocha-javascript-test-runner">
@@ -76,7 +99,7 @@
       <recursive>false</recursive>
       <method v="2" />
     </configuration>
-    <configuration name="examPrep\pizza.test.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+    <configuration name="examPrep2\dealership.test.js" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
       <node-interpreter>project</node-interpreter>
       <node-options />
       <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
@@ -85,73 +108,24 @@
       <ui>bdd</ui>
       <extra-mocha-options />
       <test-kind>TEST_FILE</test-kind>
-      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
-      <method v="2" />
-    </configuration>
-    <configuration name="pizzUni Tests" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>SUITE</test-kind>
-      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
-      <test-names>
-        <name value="pizzUni Tests" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="pizzUni Tests.makeAnOrder Tests.pass non object element" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
-      <test-names>
-        <name value="pizzUni Tests" />
-        <name value="makeAnOrder Tests" />
-        <name value="pass non object element" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="pizzUni Tests.orderType Tests." type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
-      <working-directory>$PROJECT_DIR$</working-directory>
-      <pass-parent-env>true</pass-parent-env>
-      <ui>bdd</ui>
-      <extra-mocha-options />
-      <test-kind>TEST</test-kind>
-      <test-file>$PROJECT_DIR$/examPrep/pizza.test.js</test-file>
-      <test-names>
-        <name value="pizzUni Tests" />
-        <name value="orderType Tests" />
-        <name value="" />
-      </test-names>
+      <test-file>$PROJECT_DIR$/examPrep2/dealership.test.js</test-file>
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Mocha.Mocha Tests" />
-      <item itemvalue="Mocha.pizzUni Tests" />
-      <item itemvalue="Mocha.pizzUni Tests.makeAnOrder Tests.pass non object element" />
-      <item itemvalue="Mocha.pizzUni Tests.orderType Tests." />
-      <item itemvalue="Mocha.examPrep\pizza.test.js" />
-      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Mocha.examPrep2\dealership.test.js" />
+      <item itemvalue="Node.js.dealership.js" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.app.js" />
+      <item itemvalue="Node.js.ChristmasDinner.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.index.js" />
-        <item itemvalue="Mocha.examPrep\pizza.test.js" />
-        <item itemvalue="Mocha.pizzUni Tests" />
-        <item itemvalue="Mocha.pizzUni Tests.orderType Tests." />
-        <item itemvalue="Mocha.pizzUni Tests.makeAnOrder Tests.pass non object element" />
+        <item itemvalue="Node.js.ChristmasDinner.js" />
+        <item itemvalue="Node.js.app.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Mocha.examPrep2\dealership.test.js" />
+        <item itemvalue="Node.js.dealership.js" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +143,9 @@
       <workItem from="1613505669452" duration="2446000" />
       <workItem from="1613564568388" duration="20045000" />
       <workItem from="1613653973791" duration="17537000" />
-      <workItem from="1613676622901" duration="9730000" />
+      <workItem from="1613676622901" duration="9858000" />
+      <workItem from="1613741550171" duration="1927000" />
+      <workItem from="1613746296556" duration="15725000" />
     </task>
     <task id="LOCAL-00001" summary="Js classes half lecture taken + exam prep task with classes SOLVED">
       <created>1613607289770</created>
@@ -178,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613607289770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Exam Prep 1 taken, solutions added to the repo">
+      <created>1613690108800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613690108800</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +169,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Js classes half lecture taken + exam prep task with classes SOLVED" />
-    <option name="LAST_COMMIT_MESSAGE" value="Js classes half lecture taken + exam prep task with classes SOLVED" />
+    <MESSAGE value="Exam Prep 1 taken, solutions added to the repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exam Prep 1 taken, solutions added to the repo" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
