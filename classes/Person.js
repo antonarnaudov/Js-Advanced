@@ -7,10 +7,13 @@ class Person {
     }
 
     toString() {
-        return `${this.firstName} ${this.lastName} (age: ${this.age}, email: ${this.email})`
+        return `${this.firstName} ${this.lastName} 
+        (age: ${this.age}, email: ${this.email})`
     }
 }
 
+// Using _x doesn't change anything
+// It's a 'private' variable convention
 module.exports = Person
 
 let person = new Person('Anna', 'Simpson', 22, 'anna@yahoo.com');
